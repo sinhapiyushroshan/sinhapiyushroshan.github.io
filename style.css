@@ -1,0 +1,43 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color:whitesmoke;
+    font-size: x-large;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.maxhome{
+    width: 100%;
+height: 600px;
+
+
+   pre{
+    font-size: 80px;
+    button{
+        position: absolute;
+        top: 480px;
+        font-size: 80px;
+        background-color: rgb(100, 188, 233);
+        border-radius: 20px;
+    }
+   }
+   .img{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    right: 200px;
+    top: 180px;
+    background-image: url(backimg.jpg);
+    background-size: cover;
+   }
+p{
+    position: absolute;
+    top: 170px;
+    left: 400px;
+    color: rgb(100, 188, 233);;
+
+}
+
+

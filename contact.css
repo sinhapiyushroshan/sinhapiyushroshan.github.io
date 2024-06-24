@@ -1,0 +1,32 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color:whitesmoke;
+    font-size: x-large;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.me{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(100, 188, 233);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.gp{
+    height: 20px;
+    width: 100%;
+}
+Button{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(100, 188, 233);
+    display:  inline-flex;
+    justify-content: space-evenly;
+}
+

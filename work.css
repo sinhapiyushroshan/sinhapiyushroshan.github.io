@@ -1,0 +1,49 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color:whitesmoke;
+    font-size: x-large;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.soon{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(100, 188, 233);
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gap{
+    height: 30px;
+    width: 100%;
+}
+.up{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: rgb(79, 153, 189);
+    font-size: xx-large;
+    
+}
+.gp{
+    height: 30px;
+    width: 100%;
+}
+.tx{
+height: 200px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+background-color: rgb(79, 153, 189);
+font-size: xx-large;
+
+}
